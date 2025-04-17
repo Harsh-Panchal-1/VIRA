@@ -1,5 +1,3 @@
-# VIRA-Voice-Interactive-Response-Assistant-
-VIRA – A Voice Interactive Response Assistant built with C++ and Python that listens, talks, plays songs and opens websites.
 # VIRA - Voice Interactive Response Assistant
 
 VIRA (Voice Interactive Response Assistant) is a smart desktop assistant built using C++ and Python. It listens to your voice commands, responds using text-to-speech, plays songs from YouTube and opens websites.
