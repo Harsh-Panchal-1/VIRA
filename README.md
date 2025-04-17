@@ -28,9 +28,8 @@ VIRA (Voice Interactive Response Assistant) is a smart desktop assistant built u
 
 ```bash
 VIRA/
-├── main.cpp                # C++ main assistant logic
+├── main.cpp               # C++ main assistant logic
 ├── voice_test.py          # Python script for capturing voice and saving to file
-├── show_vira_ui.py        # Python script to display the AI image
 ├── command.txt            # File where the voice command is stored
-├── vira_ui.png            # Image shown as the AI face
+├── tempCodeRunnerFile.cpp # Temporary CPP Code running file
 ├── README.md              # Project documentation
